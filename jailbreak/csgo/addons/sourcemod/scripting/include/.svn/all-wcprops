@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/hosties2/!svn/ver/169/hosties2/addons/sourcemod/scripting/include
+END
+steamtools.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/hosties2/!svn/ver/120/hosties2/addons/sourcemod/scripting/include/steamtools.inc
+END
+lastrequest.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/hosties2/!svn/ver/169/hosties2/addons/sourcemod/scripting/include/lastrequest.inc
+END
+hosties.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/hosties2/!svn/ver/169/hosties2/addons/sourcemod/scripting/include/hosties.inc
+END
+sourcebans.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/hosties2/!svn/ver/21/hosties2/addons/sourcemod/scripting/include/sourcebans.inc
+END
+sdkhooks.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/hosties2/!svn/ver/69/hosties2/addons/sourcemod/scripting/include/sdkhooks.inc
+END
+basecomm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/hosties2/!svn/ver/30/hosties2/addons/sourcemod/scripting/include/basecomm.inc
+END

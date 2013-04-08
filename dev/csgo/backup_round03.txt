@@ -1,0 +1,125 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-07 17:59:06"
+	"map"		"mg_awp_submarine_v4csgo"
+	"round"		"3"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveTerroristLoses"		"3"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"84567130"
+		{
+			"name"		"McNutty"
+			"kills"		"2"
+			"assists"		"1"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"5"
+			"cash"		"8000"
+			"Items"
+			{
+				"item"		"weapon_awp"
+			}
+		}
+		"58874643"
+		{
+			"name"		"Banjo Kazooie"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"7900"
+			"Items"
+			{
+				"item"		"weapon_awp"
+			}
+		}
+		"127612581"
+		{
+			"name"		"Parker"
+			"kills"		"2"
+			"assists"		"0"
+			"deaths"		"2"
+			"mvps"		"0"
+			"score"		"4"
+			"cash"		"8000"
+			"Items"
+			{
+				"item"		"weapon_awp"
+			}
+		}
+		"114652031"
+		{
+			"name"		"portuguese man o' war"
+			"kills"		"7"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"3"
+			"score"		"14"
+			"cash"		"8950"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"119443376"
+		{
+			"name"		"dreameater"
+			"kills"		"-1"
+			"assists"		"0"
+			"deaths"		"2"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"5800"
+		}
+		"67372726"
+		{
+			"name"		"Reimoo"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"3"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"8200"
+		}
+		"74121168"
+		{
+			"name"		"Klol12"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"4"
+			"mvps"		"0"
+			"score"		"2"
+			"cash"		"8950"
+		}
+		"78764282"
+		{
+			"name"		"Large ghostly female cock"
+			"kills"		"2"
+			"assists"		"1"
+			"deaths"		"3"
+			"mvps"		"0"
+			"score"		"5"
+			"cash"		"9000"
+		}
+		"126144705"
+		{
+			"name"		"Spencer"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+	}
+}

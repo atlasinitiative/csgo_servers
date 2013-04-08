@@ -1,0 +1,1 @@
+../../../base/csgo/scripts/global_actors.txt

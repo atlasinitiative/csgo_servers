@@ -1,0 +1,1 @@
+../../base/bin/maplist_csgo.txt

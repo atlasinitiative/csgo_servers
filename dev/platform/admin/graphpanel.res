@@ -1,0 +1,1 @@
+../../../base/platform/admin/graphpanel.res

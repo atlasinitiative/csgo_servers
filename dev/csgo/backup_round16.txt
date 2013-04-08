@@ -1,0 +1,76 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-07 13:38:00"
+	"team1"		"The Atlas Initiative"
+	"map"		"mg_hellz_multigame_csgo_v3"
+	"round"		"16"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveTerroristLoses"		"4"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"98230771"
+		{
+			"name"		"Mr. Horned Whale"
+			"kills"		"-10"
+			"assists"		"1"
+			"deaths"		"12"
+			"mvps"		"1"
+			"score"		"1"
+			"cash"		"10000"
+		}
+		"67372726"
+		{
+			"name"		"Reimoo"
+			"kills"		"-1"
+			"assists"		"0"
+			"deaths"		"3"
+			"mvps"		"1"
+			"score"		"4"
+			"cash"		"10000"
+		}
+		"49210268"
+		{
+			"name"		"Assassin88"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"86596997"
+		{
+			"name"		"piXelPwR"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+		"87115199"
+		{
+			"name"		"Xcal. synonymous"
+			"disconnected"		"disconnected"
+			"kills"		"-1"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+	}
+}

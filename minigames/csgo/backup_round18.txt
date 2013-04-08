@@ -1,0 +1,169 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-08 15:24:09"
+	"map"		"mg_piratewars_2010csgo"
+	"round"		"18"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveTerroristLoses"		"1"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"54766306"
+		{
+			"name"		"Masikq"
+			"kills"		"-2"
+			"assists"		"1"
+			"deaths"		"4"
+			"mvps"		"0"
+			"score"		"3"
+			"cash"		"10000"
+		}
+		"116886538"
+		{
+			"name"		"Lilmj5943"
+			"kills"		"3"
+			"assists"		"7"
+			"deaths"		"10"
+			"mvps"		"4"
+			"score"		"19"
+			"cash"		"10000"
+		}
+		"77645392"
+		{
+			"name"		"Пика"
+			"kills"		"1"
+			"assists"		"1"
+			"deaths"		"4"
+			"mvps"		"0"
+			"score"		"5"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+			}
+		}
+		"30519096"
+		{
+			"name"		"DJ"
+			"kills"		"17"
+			"assists"		"12"
+			"deaths"		"13"
+			"mvps"		"7"
+			"score"		"52"
+			"cash"		"10000"
+		}
+		"74771747"
+		{
+			"name"		"smitty6"
+			"kills"		"-1"
+			"assists"		"0"
+			"deaths"		"5"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"10000"
+		}
+		"83606267"
+		{
+			"name"		"François: French Commy"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"3300"
+		}
+		"38646589"
+		{
+			"name"		"Euronymous"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"3300"
+		}
+		"114652031"
+		{
+			"name"		"portuguese man o' war"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"3300"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"38646589"
+		{
+			"name"		"Euronymous"
+			"kills"		"2"
+			"assists"		"1"
+			"deaths"		"9"
+			"mvps"		"1"
+			"score"		"13"
+			"cash"		"10000"
+		}
+		"99459875"
+		{
+			"name"		"MyVertix"
+			"kills"		"-1"
+			"assists"		"4"
+			"deaths"		"15"
+			"mvps"		"2"
+			"score"		"12"
+			"cash"		"10000"
+		}
+		"43561723"
+		{
+			"name"		"Tabarnack"
+			"kills"		"-2"
+			"assists"		"3"
+			"deaths"		"14"
+			"mvps"		"0"
+			"score"		"9"
+			"cash"		"10000"
+		}
+		"114652031"
+		{
+			"name"		"portuguese man o' war"
+			"kills"		"4"
+			"assists"		"3"
+			"deaths"		"13"
+			"mvps"		"2"
+			"score"		"23"
+			"cash"		"10000"
+		}
+		"39147137"
+		{
+			"name"		"[xG:M] Ebic"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"3400"
+		}
+		"104030908"
+		{
+			"name"		"tomscialom"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+	}
+}

@@ -1,0 +1,1 @@
+../../../base/bin/map_publish/publishedfilebrowserdialog.res

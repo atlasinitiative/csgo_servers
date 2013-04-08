@@ -1,0 +1,31 @@
+L 04/06/2013 - 18:22:20: SourceMod log file session started (file "L20130406.log") (Version "1.6.0-dev+3882")
+L 04/06/2013 - 18:22:20: -------- Mapchange to jb_castleguarddev_v5 --------
+L 04/06/2013 - 18:24:48: -------- Mapchange to jb_castleguarddev_v5 --------
+L 04/06/2013 - 18:24:49: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.ep2v.txt"
+L 04/06/2013 - 18:24:49: [UPDATER] Successfully updated gamedata file "sdktools.games/game.hl2mp.txt"
+L 04/06/2013 - 18:24:49: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 04/06/2013 - 18:24:54: [randomcycle.smx] RandomCycle has chosen ar_baggage for the nextmap.
+L 04/06/2013 - 18:28:13: SourceMod log file session started (file "L20130406.log") (Version "1.6.0-dev+3882")
+L 04/06/2013 - 18:28:13: -------- Mapchange to jb_castleguarddev_v5 --------
+L 04/06/2013 - 18:28:46: -------- Mapchange to jb_castleguarddev_v5 --------
+L 04/06/2013 - 18:28:52: [randomcycle.smx] RandomCycle has chosen de_train for the nextmap.
+L 04/06/2013 - 18:46:03: [funcommands.smx] "rm -rf /<2><STEAM_1:0:19467550><>" toggled noclip on "rm -rf /<2><STEAM_1:0:19467550><>"
+L 04/06/2013 - 18:46:03: [funcommands.smx] "rm -rf /<2><STEAM_1:0:19467550><>" toggled noclip on "Klol12<3><STEAM_1:0:37060584><>"
+L 04/06/2013 - 18:46:33: [sm_hosties.smx] "TaintedAngel<5><STEAM_1:1:55113269><>" respawned "TaintedAngel<5><STEAM_1:1:55113269><>"
+L 04/06/2013 - 18:47:12: [sm_hosties.smx] "TaintedAngel<5><STEAM_1:1:55113269><>" respawned "TaintedAngel<5><STEAM_1:1:55113269><>"
+L 04/06/2013 - 18:47:12: [sm_hosties.smx] "TaintedAngel<5><STEAM_1:1:55113269><>" respawned "Reimoo<6><STEAM_1:0:33686363><>"
+L 04/06/2013 - 18:48:05: [funcommands.smx] "rm -rf /<2><STEAM_1:0:19467550><>" toggled noclip on "rm -rf /<2><STEAM_1:0:19467550><>"
+L 04/06/2013 - 18:48:05: [funcommands.smx] "rm -rf /<2><STEAM_1:0:19467550><>" toggled noclip on "Klol12<3><STEAM_1:0:37060584><>"
+L 04/06/2013 - 18:48:05: [funcommands.smx] "rm -rf /<2><STEAM_1:0:19467550><>" toggled noclip on "TaintedAngel<5><STEAM_1:1:55113269><>"
+L 04/06/2013 - 18:48:05: [funcommands.smx] "rm -rf /<2><STEAM_1:0:19467550><>" toggled noclip on "Reimoo<6><STEAM_1:0:33686363><>"
+L 04/06/2013 - 18:48:30: [funcommands.smx] "rm -rf /<2><STEAM_1:0:19467550><>" toggled noclip on "Reimoo<6><STEAM_1:0:33686363><>"
+L 04/06/2013 - 18:48:35: [funcommands.smx] "rm -rf /<2><STEAM_1:0:19467550><>" toggled noclip on "TaintedAngel<5><STEAM_1:1:55113269><>"
+L 04/06/2013 - 18:50:48: [sm_hosties.smx] "TaintedAngel<5><STEAM_1:1:55113269><>" respawned "Klol12<3><STEAM_1:0:37060584><>"
+L 04/06/2013 - 18:51:02: [sm_hosties.smx] "TaintedAngel<5><STEAM_1:1:55113269><>" respawned "rm -rf /<2><STEAM_1:0:19467550><>"
+L 04/06/2013 - 18:51:02: [sm_hosties.smx] "TaintedAngel<5><STEAM_1:1:55113269><>" respawned "Klol12<3><STEAM_1:0:37060584><>"
+L 04/06/2013 - 18:51:28: [sm_hosties.smx] "TaintedAngel<5><STEAM_1:1:55113269><>" respawned "Klol12<3><STEAM_1:0:37060584><>"
+L 04/06/2013 - 18:53:58: SourceMod log file session started (file "L20130406.log") (Version "1.6.0-dev+3882")
+L 04/06/2013 - 18:53:58: -------- Mapchange to jb_castleguarddev_v5 --------
+L 04/06/2013 - 19:29:46: -------- Mapchange to jb_castleguarddev_v5 --------
+L 04/06/2013 - 19:29:51: [randomcycle.smx] RandomCycle has chosen de_lake for the nextmap.
+L 04/06/2013 - 19:59:47: -------- Mapchange to jb_castleguarddev_v5 --------

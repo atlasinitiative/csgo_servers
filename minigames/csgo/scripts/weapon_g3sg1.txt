@@ -1,0 +1,1 @@
+../../../base/csgo/scripts/weapon_g3sg1.txt

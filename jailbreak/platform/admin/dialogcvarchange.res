@@ -1,0 +1,1 @@
+../../../base/platform/admin/dialogcvarchange.res

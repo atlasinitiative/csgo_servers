@@ -1,0 +1,178 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-07 16:03:18"
+	"map"		"mg_race_long_road_extended"
+	"round"		"12"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveCTLoses"		"1"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"110674829"
+		{
+			"name"		"Daily Dose of Vitamin D"
+			"kills"		"8"
+			"assists"		"2"
+			"deaths"		"8"
+			"mvps"		"3"
+			"score"		"18"
+			"cash"		"10000"
+		}
+		"127612581"
+		{
+			"name"		"Parker"
+			"kills"		"4"
+			"assists"		"4"
+			"deaths"		"10"
+			"mvps"		"0"
+			"score"		"12"
+			"cash"		"10000"
+		}
+		"72156480"
+		{
+			"name"		"Lucas Oliveira"
+			"kills"		"6"
+			"assists"		"4"
+			"deaths"		"9"
+			"mvps"		"1"
+			"score"		"16"
+			"cash"		"10000"
+		}
+		"114652031"
+		{
+			"name"		"portuguese man o' war"
+			"kills"		"3"
+			"assists"		"0"
+			"deaths"		"9"
+			"mvps"		"0"
+			"score"		"10"
+			"cash"		"10000"
+		}
+		"83606267"
+		{
+			"name"		"François: French Commy"
+			"kills"		"12"
+			"assists"		"4"
+			"deaths"		"10"
+			"mvps"		"1"
+			"score"		"28"
+			"cash"		"10000"
+		}
+		"30519096"
+		{
+			"name"		"DJ"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"1"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"1"
+			"cash"		"1000"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"30519096"
+		{
+			"name"		"DJ"
+			"kills"		"7"
+			"assists"		"3"
+			"deaths"		"7"
+			"mvps"		"1"
+			"score"		"17"
+			"cash"		"10000"
+		}
+		"81191758"
+		{
+			"name"		"ressMox"
+			"kills"		"9"
+			"assists"		"0"
+			"deaths"		"7"
+			"mvps"		"1"
+			"score"		"18"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_p90"
+				"item"		"weapon_knife"
+				"item"		"weapon_hegrenade"
+				"item"		"weapon_deagle"
+			}
+		}
+		"106096489"
+		{
+			"name"		"ParkeyPark"
+			"kills"		"2"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"4"
+			"cash"		"5700"
+		}
+		"108943344"
+		{
+			"name"		"Telxee"
+			"kills"		"7"
+			"assists"		"1"
+			"deaths"		"9"
+			"mvps"		"2"
+			"score"		"17"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_fiveseven"
+			}
+		}
+		"110226539"
+		{
+			"name"		"TaintedAngel"
+			"kills"		"8"
+			"assists"		"1"
+			"deaths"		"10"
+			"mvps"		"2"
+			"score"		"19"
+			"cash"		"10000"
+		}
+		"38033184"
+		{
+			"name"		"8<"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"3000"
+		}
+		"67875886"
+		{
+			"name"		"Owl"
+			"disconnected"		"disconnected"
+			"kills"		"3"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"6"
+			"cash"		"3750"
+		}
+		"116886538"
+		{
+			"name"		"Lilmj5943"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"3000"
+		}
+	}
+}

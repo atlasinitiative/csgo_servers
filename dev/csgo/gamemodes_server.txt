@@ -1,0 +1,80 @@
+"GameModes_Server.txt"
+{
+	"gameTypes"
+	{
+		"classic"
+		{   
+			"gameModes"
+			{   
+				"casual"
+				{   
+					"maxplayers" "64"
+						"exec"
+						{        
+							"exec" "gamemode_minigames.cfg"
+						}   
+
+					"mapgroupsMP" // List of mapgroups valid for this game mode
+					{   
+						"mg_minigames" ""
+					}   
+				}   
+			}   
+		}   
+	}
+
+	"mapgroups"
+	{
+		"mg_minigames" // mapgroup definition
+		{   
+			"imagename" "mapgroup_minigames"
+			"nameID"  "#SFUI_Mapgroup_mg_minigames"
+			"name" "mg_minigames"
+			"maps"
+			{   
+				"mg_awp_submarine_v4csgo"					""
+				"mg_metal_course"									""
+				"mg_lt_galaxy_csgo_v1"						""
+				"mg_soccer_2012_beta"							""
+				"mg_ski_mountain_v2_csgo"					""
+				"mg_piratewars_2010csgo"					""
+				"mg_divine_multigames_csgo_v1"		""
+				"mg_saw_rfix_64v_csgo"						""
+				"mg_race_long_road_extended"			""
+				"deathrun_amazon_csgo"						""
+				"deathrun_deluxe_csgo"						""
+				"deathrun_flatdeath_csgo"					""
+				"deathrun_holyshit_stable_4"			""
+				"deathrun_lego_world_final"				""
+				"deathrun_stone_extended_dz"			""
+				"dr_grassy_death_go"							""
+				"mg_acrophobia_run_v1"						""
+				"mg_bombardment_v1"								""
+				"mg_canalrun_course_v09"					""
+				"mg_draw_course_v1_final"					""
+				"mg_flyflynow_v2csgo"							""
+				"mg_galaxy_course_csgo"						""
+				"mg_battle_slider_v3"							""
+				"mg_kirbys_course_go"							""
+				"mg_mario_course_v1_beta"					""
+				"mg_deadlight_ike_v2"							""
+				"mg_minecraft_course_jb_sks"			""
+				"mg_scout_defence"								""
+				"mg_tomgreens_allinone_betav2"		""
+				"mg_toxic_course_go"							""
+				"mg_x01032_course_easy_beta"			""
+				"deathrun_iceworld_test"					""
+				"mg_kegs_course_v3_fixed3_csgo"		""
+				"mg_saw_2_remake_beta"						""
+				"ka_column_arena_r1"							""
+				"mg_multigames_devine_or_guess"		""
+				"mg_race_parking"									""
+				"mg_schooufi_course_fixed"				""
+				"mg_waytobar_course_v2_cmg"				""
+				"mg_hellz_multigame_csgo_v3"			""
+				"mg_office_course_2012_beta3"			""
+			}
+		}
+	}
+}
+

@@ -1,0 +1,1 @@
+../../../../../base/csgo/scripts/vscripts/training/training_scenetable_include.nut

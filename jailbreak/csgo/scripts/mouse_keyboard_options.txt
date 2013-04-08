@@ -1,0 +1,1 @@
+../../../base/csgo/scripts/mouse_keyboard_options.txt

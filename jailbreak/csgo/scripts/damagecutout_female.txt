@@ -1,0 +1,1 @@
+../../../base/csgo/scripts/damagecutout_female.txt

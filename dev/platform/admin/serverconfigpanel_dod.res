@@ -1,0 +1,1 @@
+../../../base/platform/admin/serverconfigpanel_dod.res

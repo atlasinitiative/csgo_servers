@@ -1,0 +1,55 @@
+// Advertisements 0.5
+// by Tsunami
+// 
+// Types
+// -----
+// C: Center message
+// H: Hint message
+// M: Menu message
+// S: Say message
+//    - Colors:  {DEFAULT}, {TEAM}, {GREEN}, {LIGHTGREEN}
+//    - Example: {GREEN}Current {LIGHTGREEN}Map: {DEFAULT}{CURRENTMAP}
+// T: Top message
+//    - Colors:  {WHITE},  {RED},  {GREEN}, {BLUE}, {YELLOW}, {PURPLE}, {CYAN},
+//               {ORANGE}, {PINK}, {OLIVE}, {LIME}, {VIOLET}, {LIGHTBLUE}
+//    - Example: {ORANGE} www.domain.com
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+	"1"
+	{
+		"type"		"S"
+		"text"		"Like the server? Add us to your favorites! {LIGHTGREEN} go.csatlas.com:27016"
+	}
+	"2"
+	{
+		"type"		"S"
+		"text"		"Visit our website at {LIGHTGREEN} www.csatlas.com"
+	}
+	"3"
+	{
+		"type"		"S"
+		"text"		"Feel free to join our Teamspeak at {LIGHTGREEN} voice.csatlas.com"
+	}
+	"4"
+	{
+		"type"		"S"
+		"text"		"Interested in joining Atlas?  Apply for Membership on our forums: www.csatlas.com"
+	}
+	"5"
+	{
+		"type"		"S"
+		"text"		"Please respect all players and admins on our servers"
+	}
+	"6"
+	{
+		"type"		"S"
+		"text"		"Have an idea to improve the server?  Make a Suggestion on our forums: www.csatlas.com"
+	}
+}

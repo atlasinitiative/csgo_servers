@@ -1,0 +1,76 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-06 18:51:57"
+	"team1"		"The Atlas Initiative"
+	"team2"		"The Atlas Initiative"
+	"map"		"jb_castleguarddev_v5"
+	"round"		"4"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveCTLoses"		"1"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"38935100"
+		{
+			"name"		"rm -rf /"
+			"kills"		"2"
+			"assists"		"0"
+			"deaths"		"3"
+			"mvps"		"1"
+			"score"		"4"
+			"cash"		"10000"
+		}
+		"110226539"
+		{
+			"name"		"TaintedAngel"
+			"kills"		"4"
+			"assists"		"0"
+			"deaths"		"2"
+			"mvps"		"1"
+			"score"		"8"
+			"cash"		"5900"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"74121168"
+		{
+			"name"		"Klol12"
+			"kills"		"4"
+			"assists"		"0"
+			"deaths"		"5"
+			"mvps"		"2"
+			"score"		"8"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_awp"
+				"item"		"weapon_tec9"
+			}
+		}
+		"67372726"
+		{
+			"name"		"Reimoo"
+			"kills"		"1"
+			"assists"		"1"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"3"
+			"cash"		"5450"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_g3sg1"
+				"item"		"weapon_tec9"
+			}
+		}
+	}
+}

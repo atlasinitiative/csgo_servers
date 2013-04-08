@@ -1,0 +1,154 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-07 18:05:19"
+	"map"		"mg_awp_submarine_v4csgo"
+	"round"		"10"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveTerroristLoses"		"2"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"84567130"
+		{
+			"name"		"McNutty"
+			"kills"		"6"
+			"assists"		"2"
+			"deaths"		"5"
+			"mvps"		"2"
+			"score"		"14"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_awp"
+			}
+		}
+		"58874643"
+		{
+			"name"		"Banjo Kazooie"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"5"
+			"mvps"		"0"
+			"score"		"2"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_awp"
+			}
+		}
+		"110674829"
+		{
+			"name"		"Daily Dose of Vitamin D"
+			"kills"		"2"
+			"assists"		"1"
+			"deaths"		"1"
+			"mvps"		"1"
+			"score"		"5"
+			"cash"		"8100"
+			"Items"
+			{
+				"item"		"weapon_awp"
+			}
+		}
+		"127612581"
+		{
+			"name"		"Parker"
+			"kills"		"5"
+			"assists"		"0"
+			"deaths"		"6"
+			"mvps"		"1"
+			"score"		"12"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_awp"
+			}
+		}
+		"114652031"
+		{
+			"name"		"portuguese man o' war"
+			"kills"		"12"
+			"assists"		"0"
+			"deaths"		"2"
+			"mvps"		"4"
+			"score"		"26"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_awp"
+			}
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"99459875"
+		{
+			"name"		"MyVertix"
+			"kills"		"2"
+			"assists"		"0"
+			"deaths"		"2"
+			"mvps"		"1"
+			"score"		"4"
+			"cash"		"7900"
+		}
+		"67372726"
+		{
+			"name"		"Reimoo"
+			"kills"		"4"
+			"assists"		"1"
+			"deaths"		"8"
+			"mvps"		"1"
+			"score"		"13"
+			"cash"		"10000"
+		}
+		"74121168"
+		{
+			"name"		"Klol12"
+			"kills"		"4"
+			"assists"		"0"
+			"deaths"		"9"
+			"mvps"		"0"
+			"score"		"10"
+			"cash"		"10000"
+		}
+		"78764282"
+		{
+			"name"		"Large ghostly female cock"
+			"kills"		"2"
+			"assists"		"1"
+			"deaths"		"9"
+			"mvps"		"0"
+			"score"		"7"
+			"cash"		"10000"
+		}
+		"119443376"
+		{
+			"name"		"dreameater"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+		"126144705"
+		{
+			"name"		"Spencer"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+	}
+}

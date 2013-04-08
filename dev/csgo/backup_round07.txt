@@ -1,0 +1,127 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-07 18:02:08"
+	"team2"		"The Atlas Initiative"
+	"map"		"mg_awp_submarine_v4csgo"
+	"round"		"7"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveCTLoses"		"1"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"84567130"
+		{
+			"name"		"McNutty"
+			"kills"		"5"
+			"assists"		"2"
+			"deaths"		"3"
+			"mvps"		"2"
+			"score"		"12"
+			"cash"		"10000"
+		}
+		"58874643"
+		{
+			"name"		"Banjo Kazooie"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"4"
+			"mvps"		"0"
+			"score"		"2"
+			"cash"		"10000"
+		}
+		"127612581"
+		{
+			"name"		"Parker"
+			"kills"		"5"
+			"assists"		"0"
+			"deaths"		"4"
+			"mvps"		"1"
+			"score"		"10"
+			"cash"		"10000"
+		}
+		"114652031"
+		{
+			"name"		"portuguese man o' war"
+			"kills"		"10"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"3"
+			"score"		"20"
+			"cash"		"10000"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"67372726"
+		{
+			"name"		"Reimoo"
+			"kills"		"4"
+			"assists"		"1"
+			"deaths"		"6"
+			"mvps"		"1"
+			"score"		"11"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_awp"
+			}
+		}
+		"74121168"
+		{
+			"name"		"Klol12"
+			"kills"		"3"
+			"assists"		"0"
+			"deaths"		"7"
+			"mvps"		"0"
+			"score"		"8"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_awp"
+			}
+		}
+		"78764282"
+		{
+			"name"		"Large ghostly female cock"
+			"kills"		"2"
+			"assists"		"1"
+			"deaths"		"6"
+			"mvps"		"0"
+			"score"		"7"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_awp"
+			}
+		}
+		"119443376"
+		{
+			"name"		"dreameater"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+		"126144705"
+		{
+			"name"		"Spencer"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+	}
+}

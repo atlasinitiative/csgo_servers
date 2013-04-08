@@ -1,0 +1,1 @@
+../../../base/csgo/particles/particles_manifest.txt

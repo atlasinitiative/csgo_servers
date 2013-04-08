@@ -1,0 +1,59 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-03 05:53:54"
+	"team1"		"The Atlas Initiative"
+	"map"		"jb_castleguarddev_v5"
+	"round"		"19"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveCTLoses"		"3"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"38935100"
+		{
+			"name"		"rm -rf /"
+			"kills"		"2"
+			"assists"		"0"
+			"deaths"		"12"
+			"mvps"		"6"
+			"score"		"6"
+			"cash"		"10000"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"96044627"
+		{
+			"name"		"[l2] Blind"
+			"kills"		"4"
+			"assists"		"1"
+			"deaths"		"8"
+			"mvps"		"5"
+			"score"		"9"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_m4a1"
+			}
+		}
+		"97294872"
+		{
+			"name"		"Mr. Trollolol ^-^"
+			"disconnected"		"disconnected"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"2"
+			"cash"		"3750"
+		}
+	}
+}

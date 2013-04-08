@@ -1,0 +1,22 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.6.2"
+		}
+		
+		"Notes"	"Fixed health <= 0 Problem"
+		"Notes"	"Changed the way to kill client"
+	}
+	
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/dice_sm.smx"
+		"Plugin"	"Path_SM/translations/dice.phrases.txt"
+		"Plugin"	"Path_SM/translations/de/dice.phrases.txt"
+		
+		"Source"	"Path_SM/scripting/dice_sm.sp"
+	}
+}

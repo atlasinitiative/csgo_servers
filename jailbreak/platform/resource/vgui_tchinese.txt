@@ -1,0 +1,1 @@
+../../../base/platform/resource/vgui_tchinese.txt

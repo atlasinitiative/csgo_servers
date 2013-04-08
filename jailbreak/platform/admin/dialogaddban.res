@@ -1,0 +1,1 @@
+../../../base/platform/admin/dialogaddban.res

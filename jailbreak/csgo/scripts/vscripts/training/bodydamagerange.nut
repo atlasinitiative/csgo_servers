@@ -1,0 +1,1 @@
+../../../../../base/csgo/scripts/vscripts/training/bodydamagerange.nut

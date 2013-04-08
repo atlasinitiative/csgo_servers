@@ -1,0 +1,49 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-06 18:45:46"
+	"team1"		"The Atlas Initiative"
+	"team2"		"The Atlas Initiative"
+	"map"		"jb_castleguarddev_v5"
+	"round"		"2"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveTerroristLoses"		"1"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"38935100"
+		{
+			"name"		"rm -rf /"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"1"
+			"score"		"2"
+			"cash"		"5850"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_fiveseven"
+			}
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"74121168"
+		{
+			"name"		"Klol12"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"1"
+			"score"		"2"
+			"cash"		"5550"
+		}
+	}
+}

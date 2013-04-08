@@ -1,0 +1,104 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-08 15:10:29"
+	"map"		"mg_piratewars_2010csgo"
+	"round"		"4"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveTerroristLoses"		"1"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"38646589"
+		{
+			"name"		"Euronymous"
+			"kills"		"-1"
+			"assists"		"0"
+			"deaths"		"2"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+			}
+		}
+		"116886538"
+		{
+			"name"		"Lilmj5943"
+			"kills"		"2"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"1"
+			"score"		"4"
+			"cash"		"7200"
+			"Items"
+			{
+				"item"		"weapon_knife"
+			}
+		}
+		"30519096"
+		{
+			"name"		"DJ"
+			"kills"		"2"
+			"assists"		"4"
+			"deaths"		"2"
+			"mvps"		"2"
+			"score"		"8"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+			}
+		}
+		"114652031"
+		{
+			"name"		"portuguese man o' war"
+			"kills"		"-2"
+			"assists"		"0"
+			"deaths"		"2"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"10000"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"104030908"
+		{
+			"name"		"tomscialom"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"2"
+			"mvps"		"0"
+			"score"		"2"
+			"cash"		"8550"
+		}
+		"99459875"
+		{
+			"name"		"MyVertix"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"3"
+			"mvps"		"1"
+			"score"		"4"
+			"cash"		"10000"
+		}
+		"43561723"
+		{
+			"name"		"Tabarnack"
+			"kills"		"-2"
+			"assists"		"0"
+			"deaths"		"3"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"10000"
+		}
+	}
+}

@@ -1,0 +1,1 @@
+../../../base/csgo/scripts/video_options.txt

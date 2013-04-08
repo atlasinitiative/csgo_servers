@@ -1,0 +1,115 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-08 12:16:50"
+	"map"		"mg_awp_submarine_v4csgo"
+	"round"		"19"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveTerroristLoses"		"7"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"27506304"
+		{
+			"name"		"KaeMete"
+			"kills"		"10"
+			"assists"		"2"
+			"deaths"		"11"
+			"mvps"		"5"
+			"score"		"24"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_awp"
+			}
+		}
+		"116886538"
+		{
+			"name"		"Lilmj5943"
+			"kills"		"3"
+			"assists"		"1"
+			"deaths"		"12"
+			"mvps"		"1"
+			"score"		"11"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+			}
+		}
+		"23057369"
+		{
+			"name"		"richscimmy"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+		"98230771"
+		{
+			"name"		"Mr. Horned Whale"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"23057369"
+		{
+			"name"		"richscimmy"
+			"kills"		"9"
+			"assists"		"0"
+			"deaths"		"11"
+			"mvps"		"6"
+			"score"		"20"
+			"cash"		"10000"
+		}
+		"87413949"
+		{
+			"name"		"Mr.Lister The Sister Fister"
+			"kills"		"9"
+			"assists"		"0"
+			"deaths"		"15"
+			"mvps"		"2"
+			"score"		"20"
+			"cash"		"10000"
+		}
+		"77569337"
+		{
+			"name"		"Jack♥'"
+			"disconnected"		"disconnected"
+			"kills"		"-1"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"3000"
+		}
+		"100233475"
+		{
+			"name"		"Johnny Depp"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"1"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"1"
+			"cash"		"3000"
+		}
+	}
+}

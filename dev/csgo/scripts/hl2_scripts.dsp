@@ -1,0 +1,1 @@
+../../../base/csgo/scripts/hl2_scripts.dsp

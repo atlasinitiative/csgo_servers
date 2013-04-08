@@ -1,0 +1,23 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"		"1.2.2"
+			"Previous"		"1.2.1"
+		}
+
+		"Notes"	"Changes in 1.2.2:"
+		"Notes"	"Fixed skin changing when player is started bot control"
+		"Notes"	"Forced models to be precached before map start - less lags for users with old compuiters (maybe)"
+		"Notes"	"Improved checks for skin changing via menu. It means dead player cant call a menu if plugin should change skin immediately, otherwise menu should work"
+		"Notes"	"Added ability to use more than one flag for sm_csgo_skins_admflag"
+	}
+
+	"Files"
+	{
+		"Plugin"		"Path_SM/plugins/csgo_skins.smx"
+		"Source"		"Path_SM/scripting/csgo_skins.sp"
+	}
+}

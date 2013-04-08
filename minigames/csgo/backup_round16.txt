@@ -1,0 +1,165 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-08 15:21:10"
+	"map"		"mg_piratewars_2010csgo"
+	"round"		"16"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveCTLoses"		"1"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"54766306"
+		{
+			"name"		"Masikq"
+			"kills"		"-2"
+			"assists"		"0"
+			"deaths"		"2"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"10000"
+		}
+		"116886538"
+		{
+			"name"		"Lilmj5943"
+			"kills"		"5"
+			"assists"		"6"
+			"deaths"		"8"
+			"mvps"		"4"
+			"score"		"18"
+			"cash"		"10000"
+		}
+		"77645392"
+		{
+			"name"		"Пика"
+			"kills"		"-1"
+			"assists"		"1"
+			"deaths"		"4"
+			"mvps"		"0"
+			"score"		"1"
+			"cash"		"10000"
+		}
+		"30519096"
+		{
+			"name"		"DJ"
+			"kills"		"15"
+			"assists"		"10"
+			"deaths"		"11"
+			"mvps"		"6"
+			"score"		"46"
+			"cash"		"10000"
+		}
+		"74771747"
+		{
+			"name"		"smitty6"
+			"kills"		"-1"
+			"assists"		"0"
+			"deaths"		"4"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"10000"
+		}
+		"38646589"
+		{
+			"name"		"Euronymous"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"3300"
+		}
+		"114652031"
+		{
+			"name"		"portuguese man o' war"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"3300"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"38646589"
+		{
+			"name"		"Euronymous"
+			"kills"		"2"
+			"assists"		"0"
+			"deaths"		"7"
+			"mvps"		"1"
+			"score"		"8"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_mac10"
+			}
+		}
+		"99459875"
+		{
+			"name"		"MyVertix"
+			"kills"		"-1"
+			"assists"		"4"
+			"deaths"		"13"
+			"mvps"		"2"
+			"score"		"10"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_mac10"
+			}
+		}
+		"43561723"
+		{
+			"name"		"Tabarnack"
+			"kills"		"-2"
+			"assists"		"2"
+			"deaths"		"12"
+			"mvps"		"0"
+			"score"		"8"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_mac10"
+			}
+		}
+		"114652031"
+		{
+			"name"		"portuguese man o' war"
+			"kills"		"4"
+			"assists"		"3"
+			"deaths"		"11"
+			"mvps"		"2"
+			"score"		"21"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_mac10"
+			}
+		}
+		"104030908"
+		{
+			"name"		"tomscialom"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+	}
+}

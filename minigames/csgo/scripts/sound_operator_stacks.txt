@@ -1,0 +1,1 @@
+../../../base/csgo/scripts/sound_operator_stacks.txt

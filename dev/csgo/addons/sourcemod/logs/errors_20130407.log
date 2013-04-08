@@ -1,0 +1,933 @@
+L 04/07/2013 - 02:02:00: SourceMod error session started
+L 04/07/2013 - 02:02:00: Info (map "mg_awp_submarine_v4csgo") (file "errors_20130407.log")
+L 04/07/2013 - 02:02:00: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/07/2013 - 02:02:00: [SM] Plugin encountered error 25: Call was aborted
+L 04/07/2013 - 02:02:00: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/07/2013 - 02:02:00: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/07/2013 - 02:02:00: [SM]   [0]  Line 138, /home/builds/sourcemod/linux-1.5/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 04/07/2013 - 02:02:00: [SM]   [1]  Line 108, /home/builds/sourcemod/linux-1.5/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 04/07/2013 - 02:02:00: [mapchooser.smx] Unable to create a valid map list.
+L 04/07/2013 - 02:02:51: Error log file session closed.
+L 04/07/2013 - 02:02:51: SourceMod error session started
+L 04/07/2013 - 02:02:51: Info (map "mg_awp_submarine_v4csgo") (file "errors_20130407.log")
+L 04/07/2013 - 02:02:51: [mapchooser.smx] Unable to create a valid map list.
+L 04/07/2013 - 02:02:51: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/07/2013 - 02:02:51: [SM] Plugin encountered error 25: Call was aborted
+L 04/07/2013 - 02:02:51: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/07/2013 - 02:02:51: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/07/2013 - 02:02:51: [SM]   [0]  Line 138, /home/builds/sourcemod/linux-1.5/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 04/07/2013 - 02:02:51: [SM]   [1]  Line 108, /home/builds/sourcemod/linux-1.5/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 04/07/2013 - 02:03:31: Error log file session closed.
+L 04/07/2013 - 02:03:31: SourceMod error session started
+L 04/07/2013 - 02:03:31: Info (map "mg_artek_course_beta_v1") (file "errors_20130407.log")
+L 04/07/2013 - 02:03:31: [mapchooser.smx] Unable to create a valid map list.
+L 04/07/2013 - 02:03:31: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/07/2013 - 02:03:31: [SM] Plugin encountered error 25: Call was aborted
+L 04/07/2013 - 02:03:31: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/07/2013 - 02:03:31: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/07/2013 - 02:03:31: [SM]   [0]  Line 138, /home/builds/sourcemod/linux-1.5/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 04/07/2013 - 02:03:31: [SM]   [1]  Line 108, /home/builds/sourcemod/linux-1.5/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 04/07/2013 - 02:05:06: SourceMod error session started
+L 04/07/2013 - 02:05:06: Info (map "mg_awp_submarine_v4csgo") (file "errors_20130407.log")
+L 04/07/2013 - 02:05:06: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/07/2013 - 02:05:06: [SM] Plugin encountered error 25: Call was aborted
+L 04/07/2013 - 02:05:06: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/07/2013 - 02:05:06: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/07/2013 - 02:05:06: [SM]   [0]  Line 138, /home/builds/sourcemod/linux-1.5/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 04/07/2013 - 02:05:06: [SM]   [1]  Line 108, /home/builds/sourcemod/linux-1.5/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 04/07/2013 - 02:05:06: [mapchooser.smx] Unable to create a valid map list.
+L 04/07/2013 - 02:05:39: Error log file session closed.
+L 04/07/2013 - 02:05:40: SourceMod error session started
+L 04/07/2013 - 02:05:40: Info (map "mg_divine_multigames_csgo_v1") (file "errors_20130407.log")
+L 04/07/2013 - 02:05:40: [mapchooser.smx] Unable to create a valid map list.
+L 04/07/2013 - 02:05:40: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/07/2013 - 02:05:40: [SM] Plugin encountered error 25: Call was aborted
+L 04/07/2013 - 02:05:40: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/07/2013 - 02:05:40: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/07/2013 - 02:05:40: [SM]   [0]  Line 138, /home/builds/sourcemod/linux-1.5/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 04/07/2013 - 02:05:40: [SM]   [1]  Line 108, /home/builds/sourcemod/linux-1.5/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 04/07/2013 - 02:08:24: Error log file session closed.
+L 04/07/2013 - 02:08:25: SourceMod error session started
+L 04/07/2013 - 02:08:25: Info (map "mg_saw_2_remake_beta") (file "errors_20130407.log")
+L 04/07/2013 - 02:08:25: [mapchooser.smx] Unable to create a valid map list.
+L 04/07/2013 - 02:08:25: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/07/2013 - 02:08:25: [SM] Plugin encountered error 25: Call was aborted
+L 04/07/2013 - 02:08:25: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/07/2013 - 02:08:25: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/07/2013 - 02:08:25: [SM]   [0]  Line 138, /home/builds/sourcemod/linux-1.5/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 04/07/2013 - 02:08:25: [SM]   [1]  Line 108, /home/builds/sourcemod/linux-1.5/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 04/07/2013 - 02:21:49: SourceMod error session started
+L 04/07/2013 - 02:21:49: Info (map "mg_awp_submarine_v4csgo") (file "errors_20130407.log")
+L 04/07/2013 - 02:21:49: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/07/2013 - 02:21:49: [SM] Plugin encountered error 25: Call was aborted
+L 04/07/2013 - 02:21:49: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/07/2013 - 02:21:49: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/07/2013 - 02:21:49: [SM]   [0]  Line 138, /home/builds/sourcemod/linux-1.5/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 04/07/2013 - 02:21:49: [SM]   [1]  Line 108, /home/builds/sourcemod/linux-1.5/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 04/07/2013 - 02:21:49: [mapchooser.smx] Unable to create a valid map list.
+L 04/07/2013 - 03:14:03: SourceMod error session started
+L 04/07/2013 - 03:14:03: Info (map "mg_draw_course_v1_final") (file "errors_20130407.log")
+L 04/07/2013 - 03:14:03: [SM] Native "CS_RespawnPlayer" reported: Client index 6 is not valid
+L 04/07/2013 - 03:14:03: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:14:03: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:14:04: [SM] Native "CS_RespawnPlayer" reported: Client index 6 is not valid
+L 04/07/2013 - 03:14:04: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:14:04: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:14:05: [SM] Native "CS_RespawnPlayer" reported: Client index 6 is not valid
+L 04/07/2013 - 03:14:05: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:14:05: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:14:05: [SM] Native "CS_RespawnPlayer" reported: Client index 6 is not valid
+L 04/07/2013 - 03:14:05: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:14:05: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:14:06: [SM] Native "CS_RespawnPlayer" reported: Client index 6 is not valid
+L 04/07/2013 - 03:14:06: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:14:06: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:14:07: [SM] Native "CS_RespawnPlayer" reported: Client index 6 is not valid
+L 04/07/2013 - 03:14:07: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:14:07: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:14:07: [SM] Native "CS_RespawnPlayer" reported: Client index 6 is not valid
+L 04/07/2013 - 03:14:07: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:14:07: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:14:08: [SM] Native "CS_RespawnPlayer" reported: Client index 6 is not valid
+L 04/07/2013 - 03:14:08: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:14:08: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:14:13: [SM] Native "CS_RespawnPlayer" reported: Client index 6 is not valid
+L 04/07/2013 - 03:14:13: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:14:13: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:14:14: [SM] Native "CS_RespawnPlayer" reported: Client index 6 is not valid
+L 04/07/2013 - 03:14:14: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:14:14: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:14:24: [SM] Native "CS_RespawnPlayer" reported: Client index 6 is not valid
+L 04/07/2013 - 03:14:24: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:14:24: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:23:27: [SM] Native "CS_RespawnPlayer" reported: Client index 4 is not valid
+L 04/07/2013 - 03:23:27: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:23:27: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:23:28: [SM] Native "CS_RespawnPlayer" reported: Client index 4 is not valid
+L 04/07/2013 - 03:23:28: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:23:28: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:23:29: [SM] Native "CS_RespawnPlayer" reported: Client index 4 is not valid
+L 04/07/2013 - 03:23:29: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:23:29: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:23:29: [SM] Native "CS_RespawnPlayer" reported: Client index 4 is not valid
+L 04/07/2013 - 03:23:29: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:23:29: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:23:30: [SM] Native "CS_RespawnPlayer" reported: Client index 4 is not valid
+L 04/07/2013 - 03:23:30: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:23:30: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:25:41: [SM] Native "CS_RespawnPlayer" reported: Client index 4 is not valid
+L 04/07/2013 - 03:25:41: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 03:25:41: [SM]   [0]  Line 1660, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 03:38:26: Error log file session closed.
+L 04/07/2013 - 10:19:14: SourceMod error session started
+L 04/07/2013 - 10:19:14: Info (map "mg_waytobar_course_v2_cmg") (file "errors_20130407.log")
+L 04/07/2013 - 10:19:14: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 10:19:14: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 10:19:14: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 10:19:15: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 10:19:15: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 10:19:15: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 10:29:15: Error log file session closed.
+L 04/07/2013 - 12:19:28: SourceMod error session started
+L 04/07/2013 - 12:19:28: Info (map "mg_draw_course_v1_final") (file "errors_20130407.log")
+L 04/07/2013 - 12:19:28: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 12:19:28: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 12:19:28: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 12:23:54: [SM] Native "IsPlayerAlive" reported: Client 5 is not in game
+L 04/07/2013 - 12:23:54: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 12:23:54: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 12:24:00: [SM] Native "IsPlayerAlive" reported: Client 5 is not in game
+L 04/07/2013 - 12:24:00: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 12:24:00: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 12:24:01: [SM] Native "IsPlayerAlive" reported: Client 5 is not in game
+L 04/07/2013 - 12:24:01: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 12:24:01: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 12:29:24: Error log file session closed.
+L 04/07/2013 - 12:58:25: SourceMod error session started
+L 04/07/2013 - 12:58:25: Info (map "mg_awp_submarine_v4csgo") (file "errors_20130407.log")
+L 04/07/2013 - 12:58:25: [SM] Native "IsPlayerAlive" reported: Client 4 is not in game
+L 04/07/2013 - 12:58:25: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 12:58:25: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 13:12:37: Error log file session closed.
+L 04/07/2013 - 13:45:35: SourceMod error session started
+L 04/07/2013 - 13:45:35: Info (map "mg_galaxy_course_csgo") (file "errors_20130407.log")
+L 04/07/2013 - 13:45:35: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 13:45:35: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 13:45:35: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 13:59:06: Error log file session closed.
+L 04/07/2013 - 14:10:39: SourceMod error session started
+L 04/07/2013 - 14:10:39: Info (map "mg_saw_2_remake_beta") (file "errors_20130407.log")
+L 04/07/2013 - 14:10:39: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 14:10:39: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 14:10:39: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 14:10:42: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 14:10:42: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 14:10:42: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 14:11:03: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 14:11:03: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 14:11:03: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 14:11:26: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 14:11:26: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 14:11:26: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 14:12:14: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 14:12:14: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 14:12:14: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 14:12:31: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 14:12:31: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 14:12:31: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 14:15:50: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 14:15:50: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 14:15:50: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 14:21:21: Error log file session closed.
+L 04/07/2013 - 14:21:57: SourceMod error session started
+L 04/07/2013 - 14:21:57: Info (map "mg_soccer_2012_beta") (file "errors_20130407.log")
+L 04/07/2013 - 14:21:57: [SM] Native "IsPlayerAlive" reported: Client 10 is not in game
+L 04/07/2013 - 14:21:57: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 14:21:57: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 14:30:27: Error log file session closed.
+L 04/07/2013 - 14:52:03: SourceMod error session started
+L 04/07/2013 - 14:52:03: Info (map "mg_office_course_2012_beta3") (file "errors_20130407.log")
+L 04/07/2013 - 14:52:03: [SM] Native "IsPlayerAlive" reported: Client 1 is not in game
+L 04/07/2013 - 14:52:03: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 14:52:03: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 14:52:07: [SM] Native "IsPlayerAlive" reported: Client 1 is not in game
+L 04/07/2013 - 14:52:07: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 14:52:07: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:05:06: Error log file session closed.
+L 04/07/2013 - 15:05:27: SourceMod error session started
+L 04/07/2013 - 15:05:27: Info (map "mg_waytobar_course_v2_cmg") (file "errors_20130407.log")
+L 04/07/2013 - 15:05:27: [SM] Native "IsPlayerAlive" reported: Client 1 is not in game
+L 04/07/2013 - 15:05:27: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:05:27: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:05:52: [SM] Native "IsPlayerAlive" reported: Client 14 is not in game
+L 04/07/2013 - 15:05:52: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:05:52: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:05:53: [SM] Native "IsPlayerAlive" reported: Client 14 is not in game
+L 04/07/2013 - 15:05:53: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:05:53: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:15:18: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 15:15:18: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:15:18: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:15:26: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 15:15:26: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:15:26: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:15:27: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 15:15:27: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:15:27: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:17:18: [SM] Native "IsPlayerAlive" reported: Client 12 is not in game
+L 04/07/2013 - 15:17:18: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:17:18: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:17:23: [SM] Native "IsPlayerAlive" reported: Client 12 is not in game
+L 04/07/2013 - 15:17:23: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:17:23: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:17:36: [SM] Native "IsPlayerAlive" reported: Client 12 is not in game
+L 04/07/2013 - 15:17:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:17:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:17:36: [SM] Native "IsPlayerAlive" reported: Client 12 is not in game
+L 04/07/2013 - 15:17:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:17:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:17:56: [SM] Native "IsPlayerAlive" reported: Client 12 is not in game
+L 04/07/2013 - 15:17:56: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:17:56: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:18:08: [SM] Native "IsPlayerAlive" reported: Client 12 is not in game
+L 04/07/2013 - 15:18:08: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:18:08: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:18:11: [SM] Native "IsPlayerAlive" reported: Client 12 is not in game
+L 04/07/2013 - 15:18:11: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:18:11: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:18:22: [SM] Native "IsPlayerAlive" reported: Client 12 is not in game
+L 04/07/2013 - 15:18:22: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:18:22: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:18:23: [SM] Native "IsPlayerAlive" reported: Client 12 is not in game
+L 04/07/2013 - 15:18:23: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:18:23: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:20:25: [SM] Native "IsPlayerAlive" reported: Client 15 is not in game
+L 04/07/2013 - 15:20:25: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:20:25: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:20:26: [SM] Native "IsPlayerAlive" reported: Client 15 is not in game
+L 04/07/2013 - 15:20:26: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:20:26: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:20:35: [SM] Native "IsPlayerAlive" reported: Client 15 is not in game
+L 04/07/2013 - 15:20:35: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:20:35: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:20:39: [SM] Native "IsPlayerAlive" reported: Client 15 is not in game
+L 04/07/2013 - 15:20:39: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:20:39: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:38:58: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 15:38:58: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:38:58: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:38:59: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 15:38:59: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:38:59: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:39:04: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 15:39:04: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:39:04: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:39:11: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 15:39:11: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:39:11: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:39:12: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 15:39:12: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:39:12: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:39:12: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 15:39:12: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:39:12: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:39:13: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 15:39:13: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:39:13: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:39:13: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 15:39:13: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:39:13: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:39:18: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 15:39:18: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:39:18: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:39:19: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 15:39:19: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:39:19: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:39:25: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 15:39:25: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:39:25: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:39:26: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 15:39:26: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:39:26: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:39:29: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 15:39:29: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:39:29: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:39:45: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 15:39:45: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 15:39:45: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 15:44:17: Error log file session closed.
+L 04/07/2013 - 17:36:17: SourceMod error session started
+L 04/07/2013 - 17:36:17: Info (map "mg_acrophobia_course_v1") (file "errors_20130407.log")
+L 04/07/2013 - 17:36:17: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:36:17: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:36:17: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:36:18: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:36:18: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:36:18: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:36:19: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:36:19: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:36:19: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:36:27: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:36:27: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:36:27: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:36:33: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:36:33: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:36:33: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:36:56: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:36:56: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:36:56: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:36:57: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:36:57: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:36:57: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:37:28: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:37:28: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:37:28: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:37:30: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:37:30: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:37:30: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:37:42: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:37:42: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:37:42: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:37:54: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:37:54: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:37:54: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:38:36: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 17:38:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:38:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:39:22: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 17:39:22: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:39:22: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:39:22: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 17:39:22: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:39:22: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:39:23: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 17:39:23: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:39:23: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:39:26: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 17:39:26: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:39:26: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:39:26: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 17:39:26: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:39:26: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:39:27: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 17:39:27: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:39:27: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:39:35: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 17:39:35: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:39:35: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:39:38: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 17:39:38: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:39:38: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:39:48: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 17:39:48: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:39:48: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:40:49: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 17:40:49: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:40:49: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:41:03: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 17:41:03: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:41:03: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:41:15: [SM] Native "IsPlayerAlive" reported: Client 13 is not in game
+L 04/07/2013 - 17:41:15: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:41:15: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:41:17: [SM] Native "IsPlayerAlive" reported: Client 13 is not in game
+L 04/07/2013 - 17:41:17: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:41:17: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:41:19: [SM] Native "IsPlayerAlive" reported: Client 13 is not in game
+L 04/07/2013 - 17:41:19: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:41:19: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:41:21: [SM] Native "IsPlayerAlive" reported: Client 13 is not in game
+L 04/07/2013 - 17:41:21: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:41:21: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:42:32: [SM] Native "IsPlayerAlive" reported: Client 13 is not in game
+L 04/07/2013 - 17:42:32: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:42:32: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:42:47: [SM] Native "IsPlayerAlive" reported: Client 13 is not in game
+L 04/07/2013 - 17:42:47: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:42:47: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:22: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:22: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:22: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:28: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:28: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:28: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:31: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:31: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:31: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:32: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:32: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:32: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:32: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:32: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:32: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:33: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:33: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:33: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:33: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:33: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:33: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:33: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:33: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:33: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:33: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:33: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:33: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:33: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:33: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:33: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:33: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:33: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:33: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:33: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:33: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:33: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:34: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:34: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:34: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:34: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:34: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:34: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:34: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:34: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:34: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:35: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:35: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:35: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:36: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:36: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:36: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:36: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:46:37: [SM] Native "IsPlayerAlive" reported: Client 11 is not in game
+L 04/07/2013 - 17:46:37: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:46:37: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:35: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:35: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:35: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:36: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:36: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:36: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:36: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:37: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:37: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:37: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:37: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:37: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:37: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:37: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:37: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:37: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:37: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:37: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:37: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:37: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:37: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:37: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:37: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:37: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:37: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:38: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:38: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:38: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:38: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:38: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:38: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:38: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:38: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:38: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:38: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:38: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:38: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:39: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:39: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:39: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:39: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:39: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:39: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:39: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:39: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:39: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:39: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:39: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:39: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:40: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:40: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:40: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:40: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:40: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:40: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:40: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:40: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:40: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:40: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:40: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:40: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:41: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:41: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:41: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:47: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:47: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:47: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:47: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:47: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:47: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:48: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:48: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:48: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:51: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:51: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:51: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:52: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:52: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:52: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:52: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:52: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:52: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:52: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:52: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:52: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:48:52: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:48:52: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:48:52: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:49:09: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:49:09: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:49:09: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:49:10: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:49:10: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:49:10: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:49:18: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:49:18: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:49:18: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:49:19: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:49:19: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:49:19: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:49:19: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:49:19: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:49:19: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:49:20: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:49:20: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:49:20: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:49:20: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:49:20: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:49:20: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:49:20: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:49:20: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:49:20: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:49:21: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:49:21: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:49:21: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:49:25: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:49:25: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:49:25: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:24: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:24: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:24: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:25: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:25: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:25: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:25: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:25: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:25: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:26: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:26: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:26: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:27: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:27: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:27: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:27: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:27: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:27: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:27: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:27: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:27: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:28: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:28: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:28: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:34: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:34: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:34: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:36: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:37: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:37: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:37: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:37: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:37: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:37: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:38: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:38: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:38: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:38: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:38: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:38: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:38: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:38: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:38: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:50:38: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 17:50:38: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:50:38: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:25: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:25: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:25: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:28: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:28: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:28: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:35: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:35: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:35: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:35: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:35: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:35: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:36: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:36: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:43: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:43: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:43: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:44: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:44: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:44: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:44: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:44: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:44: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:44: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:44: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:44: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:44: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:44: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:44: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:45: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:45: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:45: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:45: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:45: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:45: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:45: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:45: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:45: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:45: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:45: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:45: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:45: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:45: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:45: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:45: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:45: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:45: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:52:56: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 17:52:56: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 17:52:56: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 17:55:53: Error log file session closed.
+L 04/07/2013 - 18:06:17: SourceMod error session started
+L 04/07/2013 - 18:06:17: Info (map "mg_deadlight_ike_v2") (file "errors_20130407.log")
+L 04/07/2013 - 18:06:17: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 18:06:17: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:06:17: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:06:34: [SM] Native "IsPlayerAlive" reported: Client 2 is not in game
+L 04/07/2013 - 18:06:34: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:06:34: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:06:42: [SM] Native "IsPlayerAlive" reported: Client 3 is not in game
+L 04/07/2013 - 18:06:42: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:06:42: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:12:00: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 18:12:00: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:12:00: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:12:03: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 18:12:03: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:12:03: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:12:05: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 18:12:05: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:12:05: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:12:06: [SM] Native "IsPlayerAlive" reported: Client 9 is not in game
+L 04/07/2013 - 18:12:06: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:12:06: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:13:47: Error log file session closed.
+L 04/07/2013 - 18:14:07: SourceMod error session started
+L 04/07/2013 - 18:14:07: Info (map "mg_mario_course_v1_beta") (file "errors_20130407.log")
+L 04/07/2013 - 18:14:07: [SM] Native "IsPlayerAlive" reported: Client 1 is not in game
+L 04/07/2013 - 18:14:07: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:14:07: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:18:52: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 18:18:52: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:18:52: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:19:03: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 18:19:03: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:19:03: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:19:05: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 18:19:05: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:19:05: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:19:06: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 18:19:06: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:19:06: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:19:07: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 18:19:07: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:19:07: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:19:10: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 18:19:10: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:19:10: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:19:11: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 18:19:11: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:19:11: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:19:11: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 18:19:11: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:19:11: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:19:11: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 18:19:11: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:19:11: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:19:13: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 18:19:13: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:19:13: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:19:16: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 18:19:16: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:19:16: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:19:18: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 18:19:18: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:19:18: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:19:21: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 18:19:21: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:19:21: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:27:55: [SM] Native "IsPlayerAlive" reported: Client 10 is not in game
+L 04/07/2013 - 18:27:55: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:27:55: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:27:56: [SM] Native "IsPlayerAlive" reported: Client 10 is not in game
+L 04/07/2013 - 18:27:56: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:27:56: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:27:56: [SM] Native "IsPlayerAlive" reported: Client 10 is not in game
+L 04/07/2013 - 18:27:56: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:27:56: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:27:57: [SM] Native "IsPlayerAlive" reported: Client 10 is not in game
+L 04/07/2013 - 18:27:57: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:27:57: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:28:00: [SM] Native "IsPlayerAlive" reported: Client 10 is not in game
+L 04/07/2013 - 18:28:00: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:28:00: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:35:59: Error log file session closed.
+L 04/07/2013 - 18:38:28: SourceMod error session started
+L 04/07/2013 - 18:38:28: Info (map "mg_galaxy_course_csgo") (file "errors_20130407.log")
+L 04/07/2013 - 18:38:28: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:38:28: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:38:28: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:40:00: [SM] Native "IsPlayerAlive" reported: Client 13 is not in game
+L 04/07/2013 - 18:40:00: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:40:00: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:40:01: [SM] Native "IsPlayerAlive" reported: Client 13 is not in game
+L 04/07/2013 - 18:40:01: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:40:01: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:40:02: [SM] Native "IsPlayerAlive" reported: Client 13 is not in game
+L 04/07/2013 - 18:40:02: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:40:02: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:40:04: [SM] Native "IsPlayerAlive" reported: Client 13 is not in game
+L 04/07/2013 - 18:40:04: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:40:04: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:40:06: [SM] Native "IsPlayerAlive" reported: Client 13 is not in game
+L 04/07/2013 - 18:40:06: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:40:06: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:45:47: [SM] Native "IsPlayerAlive" reported: Client 6 is not in game
+L 04/07/2013 - 18:45:47: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:45:47: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:46:06: [SM] Native "IsPlayerAlive" reported: Client 14 is not in game
+L 04/07/2013 - 18:46:06: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:46:06: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:46:15: [SM] Native "IsPlayerAlive" reported: Client 14 is not in game
+L 04/07/2013 - 18:46:15: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:46:15: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:46:18: [SM] Native "IsPlayerAlive" reported: Client 14 is not in game
+L 04/07/2013 - 18:46:18: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:46:18: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:47:38: [SM] Native "IsPlayerAlive" reported: Client 15 is not in game
+L 04/07/2013 - 18:47:38: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:47:38: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:47:43: [SM] Native "IsPlayerAlive" reported: Client 1 is not in game
+L 04/07/2013 - 18:47:43: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:47:43: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:47:43: [SM] Native "IsPlayerAlive" reported: Client 1 is not in game
+L 04/07/2013 - 18:47:43: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:47:43: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:47:43: [SM] Native "IsPlayerAlive" reported: Client 1 is not in game
+L 04/07/2013 - 18:47:43: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:47:43: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:47:44: [SM] Native "IsPlayerAlive" reported: Client 1 is not in game
+L 04/07/2013 - 18:47:44: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:47:44: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:47:46: [SM] Native "IsPlayerAlive" reported: Client 1 is not in game
+L 04/07/2013 - 18:47:46: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:47:46: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:47:50: [SM] Native "IsPlayerAlive" reported: Client 1 is not in game
+L 04/07/2013 - 18:47:50: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:47:50: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:47:51: [SM] Native "IsPlayerAlive" reported: Client 1 is not in game
+L 04/07/2013 - 18:47:51: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:47:51: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:47:52: [SM] Native "IsPlayerAlive" reported: Client 1 is not in game
+L 04/07/2013 - 18:47:52: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:47:52: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:47:58: [SM] Native "IsPlayerAlive" reported: Client 1 is not in game
+L 04/07/2013 - 18:47:58: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:47:58: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:54:36: Error log file session closed.
+L 04/07/2013 - 18:54:55: SourceMod error session started
+L 04/07/2013 - 18:54:55: Info (map "mg_minecraft_course_jb_sks") (file "errors_20130407.log")
+L 04/07/2013 - 18:54:55: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:54:55: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:54:55: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:55:05: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:55:05: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:55:05: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:55:06: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:55:06: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:55:06: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:11: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:11: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:11: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:13: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:13: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:13: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:13: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:13: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:13: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:13: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:13: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:13: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:15: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:15: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:15: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:19: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:19: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:19: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:20: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:20: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:20: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:22: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:22: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:22: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:23: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:23: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:23: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:23: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:23: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:23: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:24: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:24: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:24: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:24: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:24: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:24: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:24: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:24: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:24: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:24: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:24: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:24: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:24: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:24: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:24: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:24: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:24: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:24: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:27: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:27: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:27: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 18:56:36: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 18:56:36: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 18:56:36: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 19:04:48: [SM] Native "IsPlayerAlive" reported: Client 10 is not in game
+L 04/07/2013 - 19:04:48: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 19:04:48: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 19:04:48: [SM] Native "IsPlayerAlive" reported: Client 10 is not in game
+L 04/07/2013 - 19:04:48: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 19:04:48: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 19:04:51: [SM] Native "IsPlayerAlive" reported: Client 10 is not in game
+L 04/07/2013 - 19:04:51: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 19:04:51: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 19:04:57: [SM] Native "IsPlayerAlive" reported: Client 10 is not in game
+L 04/07/2013 - 19:04:57: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 19:04:57: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 19:04:57: [SM] Native "IsPlayerAlive" reported: Client 10 is not in game
+L 04/07/2013 - 19:04:57: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 19:04:57: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 19:05:00: [SM] Native "IsPlayerAlive" reported: Client 10 is not in game
+L 04/07/2013 - 19:05:00: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 19:05:00: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 19:06:05: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 19:06:05: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 19:06:05: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 19:06:07: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 19:06:07: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 19:06:07: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 19:06:08: [SM] Native "IsPlayerAlive" reported: Client 8 is not in game
+L 04/07/2013 - 19:06:08: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 19:06:08: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 19:16:41: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 19:16:41: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 19:16:41: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 19:16:43: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 19:16:43: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 19:16:43: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 19:16:47: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 19:16:47: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 19:16:47: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 19:16:51: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 19:16:51: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 19:16:51: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()
+L 04/07/2013 - 19:16:55: [SM] Native "IsPlayerAlive" reported: Client 7 is not in game
+L 04/07/2013 - 19:16:55: [SM] Displaying call stack trace for plugin "advcommands.smx":
+L 04/07/2013 - 19:16:55: [SM]   [0]  Line 1656, advcommands.sp::Command_Respawn()

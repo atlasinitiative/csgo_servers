@@ -1,0 +1,56 @@
+"GameModes_Server.txt"
+{
+	"gameTypes"
+	{
+		"classic"
+		{   
+			"gameModes"
+			{   
+				"casual"
+				{   
+					"maxplayers" "32"
+						"exec"
+						{        
+							"exec" "gamemode_jailbreak.cfg"
+						}   
+
+					"mapgroupsMP" // List of mapgroups valid for this game mode
+					{   
+						"mg_jailbreak" ""
+					}   
+				}   
+			}   
+		}   
+	}
+
+	"mapgroups"
+	{
+		"mg_jailbreak" // mapgroup definition
+		{   
+			"imagename" "mapgroup_jailbreak"
+				"nameID"  "#SFUI_Mapgroup_mg_jailbreak"
+				"name" "mg_jailbreak"
+				"maps"
+				{   
+					"jb_avalanche_csgo_b4"  ""  
+						"ba_jail_chernobyl_day"   ""  
+						"Ba_Jail_KAJOLY_V2" ""
+						"jb_castleguarddev_v5"  ""  
+						"jb_citrus_v2"  ""  
+						"jb_fairway_csgo" ""
+						"jb_iron_go"  ""  
+						"ba_fail_jail_go_b2"  ""  
+						"ba_jail_alcatraz_redux_go" ""
+						"ba_jail_alpha" ""
+						"ba_jail_blackout_csgo" ""
+						"ba_jail_dubai" ""
+						"ba_jail_electric_vip_v3" ""
+						"ba_texture_jail_go5" ""
+						"jb_airship_csgo_b3"  ""  
+						"jb_lego_jail_v6_b2"  ""  
+						"jb_minecraft_beta_v3-5"  ""  
+				}
+		}
+	}
+}
+

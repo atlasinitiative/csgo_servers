@@ -1,0 +1,990 @@
+L 04/06/2013 - 18:22:20: SourceMod error session started
+L 04/06/2013 - 18:22:20: Info (map "jb_castleguarddev_v5") (file "errors_20130406.log")
+L 04/06/2013 - 18:22:20: [SM] Unable to load extension "steamtools.ext": /home/steam/steamcmd/Games/jailbreak_new/csgo/addons/sourcemod/extensions/steamtools.ext.so: cannot open shared object file: No such file or directory
+L 04/06/2013 - 18:22:20: [SM] Fatal error encountered parsing translation file "jailbreak-tb.phrases.txt"
+L 04/06/2013 - 18:22:20: [SM] Error (line 0, column 0): Stream failed to open
+L 04/06/2013 - 18:22:21: [SM] Plugin encountered error 25: Call was aborted
+L 04/06/2013 - 18:22:21: [SM] Native "SetFailState" reported: File Not Found: addons/sourcemod/configs/advertisements.txt
+L 04/06/2013 - 18:22:21: [SM] Displaying call stack trace for plugin "advertisements.smx":
+L 04/06/2013 - 18:22:21: [SM]   [0]  Line 331, advertisements.sp::ParseAds()
+L 04/06/2013 - 18:22:21: [SM]   [1]  Line 44, advertisements.sp::OnMapStart()
+L 04/06/2013 - 18:24:48: Error log file session closed.
+L 04/06/2013 - 18:24:48: SourceMod error session started
+L 04/06/2013 - 18:24:48: Info (map "jb_castleguarddev_v5") (file "errors_20130406.log")
+L 04/06/2013 - 18:24:48: [SM] Fatal error encountered parsing translation file "jailbreak-tb.phrases.txt"
+L 04/06/2013 - 18:24:48: [SM] Error (line 0, column 0): Stream failed to open
+L 04/06/2013 - 18:24:49: [SM] Plugin encountered error 25: Call was aborted
+L 04/06/2013 - 18:24:49: [SM] Native "SetFailState" reported: File Not Found: addons/sourcemod/configs/advertisements.txt
+L 04/06/2013 - 18:24:49: [SM] Displaying call stack trace for plugin "advertisements.smx":
+L 04/06/2013 - 18:24:49: [SM]   [0]  Line 331, advertisements.sp::ParseAds()
+L 04/06/2013 - 18:24:49: [SM]   [1]  Line 44, advertisements.sp::OnMapStart()
+L 04/06/2013 - 18:25:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:25:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:25:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:25:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:25:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:25:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:25:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:25:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:25:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:25:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:25:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:25:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:25:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:25:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:25:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:25:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:25:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:25:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:25:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:25:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:25:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:25:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:25:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:25:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:25:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:25:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:25:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:25:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:25:12: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:25:12: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:25:12: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:25:12: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:25:17: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:25:17: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:25:17: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:25:17: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:25:17: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:25:17: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:25:17: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:25:17: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:25:17: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:25:17: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:25:17: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:25:17: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:28:13: SourceMod error session started
+L 04/06/2013 - 18:28:13: Info (map "jb_castleguarddev_v5") (file "errors_20130406.log")
+L 04/06/2013 - 18:28:13: [SM] Unable to load extension "steamtools.ext": /home/steam/steamcmd/Games/jailbreak/csgo/addons/sourcemod/extensions/steamtools.ext.so: cannot open shared object file: No such file or directory
+L 04/06/2013 - 18:28:13: [SM] Fatal error encountered parsing translation file "jailbreak-tb.phrases.txt"
+L 04/06/2013 - 18:28:13: [SM] Error (line 0, column 0): Stream failed to open
+L 04/06/2013 - 18:28:14: [SM] Plugin encountered error 25: Call was aborted
+L 04/06/2013 - 18:28:14: [SM] Native "SetFailState" reported: File Not Found: addons/sourcemod/configs/advertisements.txt
+L 04/06/2013 - 18:28:14: [SM] Displaying call stack trace for plugin "advertisements.smx":
+L 04/06/2013 - 18:28:14: [SM]   [0]  Line 331, advertisements.sp::ParseAds()
+L 04/06/2013 - 18:28:14: [SM]   [1]  Line 44, advertisements.sp::OnMapStart()
+L 04/06/2013 - 18:28:46: Error log file session closed.
+L 04/06/2013 - 18:28:46: SourceMod error session started
+L 04/06/2013 - 18:28:46: Info (map "jb_castleguarddev_v5") (file "errors_20130406.log")
+L 04/06/2013 - 18:28:46: [SM] Fatal error encountered parsing translation file "jailbreak-tb.phrases.txt"
+L 04/06/2013 - 18:28:46: [SM] Error (line 0, column 0): Stream failed to open
+L 04/06/2013 - 18:28:46: [SM] Plugin encountered error 25: Call was aborted
+L 04/06/2013 - 18:28:46: [SM] Native "SetFailState" reported: File Not Found: addons/sourcemod/configs/advertisements.txt
+L 04/06/2013 - 18:28:46: [SM] Displaying call stack trace for plugin "advertisements.smx":
+L 04/06/2013 - 18:28:46: [SM]   [0]  Line 331, advertisements.sp::ParseAds()
+L 04/06/2013 - 18:28:46: [SM]   [1]  Line 44, advertisements.sp::OnMapStart()
+L 04/06/2013 - 18:28:50: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:28:50: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:28:50: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:28:50: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:28:50: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:28:50: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:28:50: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:28:50: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:28:50: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:28:50: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:28:50: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:28:50: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:28:50: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:28:50: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:28:50: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:28:50: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:28:50: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:28:50: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:28:50: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:28:50: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:28:50: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:28:50: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:28:50: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:28:50: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:28:50: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:28:50: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:28:50: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:28:50: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:28:54: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:28:54: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:28:54: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:28:54: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:28:55: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:28:55: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:28:55: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:28:55: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:28:55: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:28:55: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:28:55: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:28:55: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:28:55: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:28:55: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:28:55: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:28:55: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:36:27: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:36:27: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:36:27: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:36:27: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:36:27: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:36:27: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:36:27: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:36:27: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:36:27: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:36:27: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:36:27: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:36:27: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:36:27: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:36:27: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:36:27: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:36:27: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:36:27: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:36:27: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:36:27: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:36:27: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:36:27: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:36:27: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:36:27: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:36:27: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:36:27: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:36:27: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:36:27: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:36:27: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:36:33: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:36:33: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:36:33: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:36:33: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:36:34: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:36:34: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:36:34: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:36:34: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:36:34: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:36:34: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:36:34: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:36:34: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:36:34: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:36:34: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:36:34: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:36:34: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:39:24: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:39:24: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:39:24: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:39:24: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:39:25: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:39:25: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:39:25: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:39:25: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:39:29: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:39:29: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:39:29: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:39:29: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:39:31: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:39:31: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:39:31: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:39:31: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:39:31: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:39:31: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:39:31: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:39:31: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:39:31: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:39:31: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:39:31: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:39:31: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:39:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:39:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:39:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:39:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:39:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:39:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:39:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:39:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:39:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:39:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:39:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:39:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:39:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:39:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:39:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:39:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:39:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:39:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:39:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:39:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:39:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:39:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:39:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:39:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:39:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:39:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:39:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:39:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:40:06: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:40:06: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:40:06: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:40:06: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:40:08: [SM] Plugin encountered error 4: Invalid parameter or parameter type
+L 04/06/2013 - 18:40:08: [SM] Native "PrintCenterText" reported: Language phrase "Invalid Team Selection" not found
+L 04/06/2013 - 18:40:08: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:40:08: [SM]   [0]  Line 1122, JailbreakTeamBalance.sp::Command_JoinTeam()
+L 04/06/2013 - 18:40:09: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:40:09: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:40:09: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:40:09: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:40:15: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:40:15: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:40:15: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:40:15: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:39: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:39: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:39: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:39: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:39: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:39: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:39: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:39: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:40: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:40: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:40: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:40: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:40: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:40: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:40: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:40: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:45: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:45: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:45: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:45: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:45: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:45: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:45: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:45: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:46: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:46: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:46: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:46: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:46: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:46: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:46: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:46: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:46: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:46: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:46: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:46: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:46: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:46: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:46: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:46: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:46: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:46: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:46: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:46: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:46: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:46: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:46: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:46: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:45:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:45:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:45:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:45:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:03: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:03: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:03: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:03: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:03: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:03: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:03: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:03: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:33: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:33: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:33: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:33: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:33: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:33: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:33: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:33: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:33: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:33: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:33: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:33: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:33: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:33: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:33: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:33: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:33: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:33: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:33: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:33: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:33: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:33: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:33: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:33: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:51: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:51: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:51: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:51: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:51: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:51: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:51: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:51: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:51: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:51: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:51: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:51: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:51: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:51: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:51: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:51: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:51: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:51: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:51: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:51: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:51: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:51: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:51: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:51: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:51: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:51: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:51: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:51: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:51: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:51: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:51: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:51: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:51: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:51: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:51: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:51: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:51: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:51: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:51: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:51: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:51: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:51: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:51: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:51: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:51: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:51: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:51: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:51: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:51: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:51: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:51: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:51: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:51: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:51: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:51: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:51: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:54: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:54: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:54: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:54: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:54: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:54: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:54: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:54: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:55: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:55: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:55: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:55: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:55: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:55: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:55: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:55: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:58: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:58: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:58: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:58: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:46:58: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:46:58: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:46:58: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:46:58: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:47:01: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:47:01: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:47:01: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:47:01: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:47:01: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:47:01: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:47:01: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:47:01: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:47:12: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:47:12: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:47:12: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:47:12: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:47:12: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:47:12: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:47:12: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:47:12: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:47:12: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:47:12: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:47:12: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:47:12: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:47:12: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:47:12: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:47:12: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:47:12: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:47:12: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:47:12: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:47:12: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:47:12: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:47:12: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:47:12: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:47:12: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:47:12: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:47:12: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:47:12: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:47:12: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:47:12: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:47:12: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:47:12: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:47:12: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:47:12: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:47:12: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:47:12: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:47:12: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:47:12: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:47:12: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:47:12: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:47:12: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:47:12: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:47:12: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:47:12: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:47:12: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:47:12: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:47:12: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:47:12: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:47:12: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:47:12: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:07: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:07: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:07: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:07: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:07: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:07: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:07: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:07: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:08: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:08: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:08: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:08: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:08: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:08: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:08: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:08: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:13: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:13: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:13: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:13: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:13: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:13: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:13: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:13: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:50: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:50: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:50: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:50: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:50: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:50: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:50: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:50: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:55: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:55: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:55: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:55: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:55: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:55: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:55: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:55: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:48:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:48:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:48:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:48:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:49:15: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:49:15: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:49:15: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:49:15: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:49:15: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:49:15: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:49:15: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:49:15: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:49:16: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:49:16: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:49:16: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:49:16: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:49:16: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:49:16: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:49:16: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:49:16: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:49:21: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:49:21: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:49:21: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:49:21: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:49:21: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:49:21: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:49:21: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:49:21: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:01: [SM] Native "IsClientInGame" reported: Client index 0 is invalid
+L 04/06/2013 - 18:50:01: [SM] Displaying call stack trace for plugin "sm_hosties.smx":
+L 04/06/2013 - 18:50:01: [SM]   [0]  Line 5147, hosties/lastrequest.sp::Timer_Countdown()
+L 04/06/2013 - 18:50:48: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:48: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:48: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:48: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:48: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:48: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:48: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:48: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:48: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:48: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:48: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:48: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:48: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:48: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:48: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:48: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:48: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:48: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:48: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:48: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:48: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:48: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:48: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:48: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:54: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:54: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:54: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:54: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:54: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:54: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:54: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:54: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:55: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:55: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:55: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:55: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:55: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:55: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:55: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:55: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:58: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:58: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:58: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:58: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:58: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:58: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:58: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:58: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:50:59: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:50:59: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:50:59: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:50:59: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:02: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:02: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:02: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:02: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:19: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:19: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:19: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:19: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:19: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:19: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:19: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:19: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:19: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:19: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:19: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:19: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:19: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:19: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:19: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:19: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:25: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:25: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:25: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:25: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:25: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:25: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:25: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:25: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:28: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:28: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:28: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:28: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:28: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:28: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:28: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:28: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:28: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:28: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:28: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:28: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:28: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:28: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:28: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:28: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:28: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:28: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:28: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:28: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:28: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:28: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:28: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:28: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:37: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:37: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:37: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:37: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:37: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:37: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:37: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:37: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:38: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:38: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:38: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:38: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:43: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:43: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:43: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:43: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:50: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:50: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:50: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:50: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:56: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:56: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:56: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:56: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:51:57: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:51:57: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:51:57: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:51:57: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:53:00: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:53:00: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:53:00: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:53:00: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:53:01: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:53:01: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:53:01: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:53:01: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:53:06: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:53:06: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:53:06: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:53:06: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:53:14: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:53:14: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:53:14: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:53:14: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:53:15: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:53:15: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:53:15: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:53:15: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:53:21: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 18:53:21: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 18:53:21: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 18:53:21: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 18:53:58: SourceMod error session started
+L 04/06/2013 - 18:53:58: Info (map "jb_castleguarddev_v5") (file "errors_20130406.log")
+L 04/06/2013 - 18:53:58: [SM] Unable to load extension "steamtools.ext": /home/steam/steamcmd/Games/jailbreak/csgo/addons/sourcemod/extensions/steamtools.ext.so: cannot open shared object file: No such file or directory
+L 04/06/2013 - 19:29:46: Error log file session closed.
+L 04/06/2013 - 19:29:49: SourceMod error session started
+L 04/06/2013 - 19:29:49: Info (map "jb_castleguarddev_v5") (file "errors_20130406.log")
+L 04/06/2013 - 19:29:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:49: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:49: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:49: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:49: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:52: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:52: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:52: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:52: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:52: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:52: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:52: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:52: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:54: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:54: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:54: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:54: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:54: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:54: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:54: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:54: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:54: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:54: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:54: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:54: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:54: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:54: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:54: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:54: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:54: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:54: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:54: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:54: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:29:54: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:29:54: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:29:54: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:29:54: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:49:09: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:49:09: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:49:09: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:49:09: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:49:09: [SM] Plugin encountered error 21: Native is not bound
+L 04/06/2013 - 19:49:09: [SM] Native "PbReadString" reported: 
+L 04/06/2013 - 19:49:09: [SM] Displaying call stack trace for plugin "JailbreakTeamBalance.smx":
+L 04/06/2013 - 19:49:09: [SM]   [0]  Line 1240, JailbreakTeamBalance.sp::Hook_VGUIMenu()
+L 04/06/2013 - 19:59:47: Error log file session closed.

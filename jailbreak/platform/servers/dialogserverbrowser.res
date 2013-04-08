@@ -1,0 +1,1 @@
+../../../base/platform/servers/dialogserverbrowser.res

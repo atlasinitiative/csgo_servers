@@ -1,0 +1,135 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-07 13:10:59"
+	"team2"		"Dynasty Gaming."
+	"map"		"mg_awp_submarine_v4csgo"
+	"round"		"18"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveTerroristLoses"		"2"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"87115199"
+		{
+			"name"		"Xcal. synonymous"
+			"kills"		"13"
+			"assists"		"4"
+			"deaths"		"8"
+			"mvps"		"5"
+			"score"		"32"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_awp"
+			}
+		}
+		"116886538"
+		{
+			"name"		"Lilmj5943"
+			"kills"		"2"
+			"assists"		"0"
+			"deaths"		"12"
+			"mvps"		"3"
+			"score"		"8"
+			"cash"		"10000"
+		}
+		"67372726"
+		{
+			"name"		"Reimoo"
+			"disconnected"		"disconnected"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"2"
+			"cash"		"3350"
+		}
+		"74121168"
+		{
+			"name"		"Klol12"
+			"disconnected"		"disconnected"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"2"
+			"cash"		"3350"
+		}
+		"97576683"
+		{
+			"name"		"A Constipated Whale."
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"3300"
+		}
+		"110674829"
+		{
+			"name"		"Daily Dose of Vitamin D"
+			"disconnected"		"disconnected"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"2"
+			"cash"		"3350"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"97576683"
+		{
+			"name"		"A Constipated Whale."
+			"kills"		"3"
+			"assists"		"1"
+			"deaths"		"13"
+			"mvps"		"0"
+			"score"		"9"
+			"cash"		"10000"
+		}
+		"55573655"
+		{
+			"name"		"Robots!"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+		"72156480"
+		{
+			"name"		"Lucas Oliveira"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+		"87115199"
+		{
+			"name"		"Xcal. synonymous"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+	}
+}

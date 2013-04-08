@@ -1,0 +1,148 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-07 13:10:16"
+	"map"		"mg_awp_submarine_v4csgo"
+	"round"		"17"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveTerroristLoses"		"1"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"87115199"
+		{
+			"name"		"Xcal. synonymous"
+			"kills"		"12"
+			"assists"		"4"
+			"deaths"		"8"
+			"mvps"		"5"
+			"score"		"30"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+			}
+		}
+		"116886538"
+		{
+			"name"		"Lilmj5943"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"11"
+			"mvps"		"2"
+			"score"		"6"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_awp"
+			}
+		}
+		"67372726"
+		{
+			"name"		"Reimoo"
+			"disconnected"		"disconnected"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"2"
+			"cash"		"3350"
+		}
+		"74121168"
+		{
+			"name"		"Klol12"
+			"disconnected"		"disconnected"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"2"
+			"cash"		"3350"
+		}
+		"97576683"
+		{
+			"name"		"A Constipated Whale."
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"3300"
+		}
+		"110674829"
+		{
+			"name"		"Daily Dose of Vitamin D"
+			"disconnected"		"disconnected"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"2"
+			"cash"		"3350"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"67372726"
+		{
+			"name"		"Reimoo"
+			"kills"		"7"
+			"assists"		"1"
+			"deaths"		"13"
+			"mvps"		"2"
+			"score"		"21"
+			"cash"		"10000"
+		}
+		"97576683"
+		{
+			"name"		"A Constipated Whale."
+			"kills"		"2"
+			"assists"		"1"
+			"deaths"		"12"
+			"mvps"		"0"
+			"score"		"7"
+			"cash"		"10000"
+		}
+		"55573655"
+		{
+			"name"		"Robots!"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+		"72156480"
+		{
+			"name"		"Lucas Oliveira"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+		"87115199"
+		{
+			"name"		"Xcal. synonymous"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+	}
+}

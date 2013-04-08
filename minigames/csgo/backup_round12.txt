@@ -1,0 +1,151 @@
+"SaveFile"
+{
+	"timestamp"		"2013-04-08 15:17:22"
+	"map"		"mg_piratewars_2010csgo"
+	"round"		"12"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveCTLoses"		"2"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"116886538"
+		{
+			"name"		"Lilmj5943"
+			"kills"		"4"
+			"assists"		"4"
+			"deaths"		"5"
+			"mvps"		"3"
+			"score"		"14"
+			"cash"		"10000"
+		}
+		"77645392"
+		{
+			"name"		"Пика"
+			"kills"		"-1"
+			"assists"		"0"
+			"deaths"		"2"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"10000"
+		}
+		"30519096"
+		{
+			"name"		"DJ"
+			"kills"		"10"
+			"assists"		"9"
+			"deaths"		"9"
+			"mvps"		"4"
+			"score"		"33"
+			"cash"		"10000"
+		}
+		"74771747"
+		{
+			"name"		"smitty6"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"2"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"8100"
+		}
+		"38646589"
+		{
+			"name"		"Euronymous"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"3300"
+		}
+		"114652031"
+		{
+			"name"		"portuguese man o' war"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"3300"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"38646589"
+		{
+			"name"		"Euronymous"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"4"
+			"mvps"		"0"
+			"score"		"2"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+			}
+		}
+		"99459875"
+		{
+			"name"		"MyVertix"
+			"kills"		"0"
+			"assists"		"4"
+			"deaths"		"10"
+			"mvps"		"2"
+			"score"		"10"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+			}
+		}
+		"43561723"
+		{
+			"name"		"Tabarnack"
+			"kills"		"-2"
+			"assists"		"1"
+			"deaths"		"9"
+			"mvps"		"0"
+			"score"		"5"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+			}
+		}
+		"114652031"
+		{
+			"name"		"portuguese man o' war"
+			"kills"		"3"
+			"assists"		"2"
+			"deaths"		"8"
+			"mvps"		"2"
+			"score"		"16"
+			"cash"		"10000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+			}
+		}
+		"104030908"
+		{
+			"name"		"tomscialom"
+			"disconnected"		"disconnected"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"1000"
+		}
+	}
+}
